@@ -1,3 +1,3 @@
 # numero-secreto
 
-Curso Git Hub @Alura
+Curso Git Hub @Alura. Treinamento diário.
